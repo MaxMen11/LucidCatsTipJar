@@ -6,9 +6,9 @@ A simple **Tip Jar** mod for **Lucid Cats**. Deposit credits into the jar and an
 
 ## Features
 
-* Shared multiplayer Tip Jar to the lobby.
-* Configurable transfer amount, capacity and deposit fee.
-* Configurable withdrawal key.
+* Shared multiplayer Tip Jar in the lobby.
+* Host configurable transfer amount, capacity and deposit fee.
+* Client configurable withdrawal key.
 * Jar visually fills as credits are deposited.
 
 ## Requirements
