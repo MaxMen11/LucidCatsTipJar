@@ -1,6 +1,7 @@
 # LucidCatsTipJar
 
 > **AI Notice:** AI was used for formatting, this README writing, and minor development assistance. The vast majority of the code was written manually.
+
 > **Human-Slop:** This mod was made while I was learning the modding. I am not an experienced Unity mod developer, and this is my first Unity Mono mod, so the code may not always follow best practices.
 
 A simple **Tip Jar** mod for **Lucid Cats**. Deposit credits into the jar and anyone can withdraw them later.
